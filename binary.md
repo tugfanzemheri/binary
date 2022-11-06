@@ -96,7 +96,7 @@ Dizinin yedinci elemanı 0 olduğundan ve 7 den 5 den ve 1 den küçük olduğun
 
     0               3                      3. Düğüm satırı
 
-Dizinin sekizinci elemanı 9 olduğundan ve 7 den 8 den büyük olduğundan 8 in sağına üçüncü düğüm satırına yazıyoruz.
+Dizinin sekizinci elemanı 9 olduğundan ve 7 den 8 den büyük olduğundan 8 in sağına ikinci düğüm satırına yazıyoruz.
 
                             7                           root satırı
 
